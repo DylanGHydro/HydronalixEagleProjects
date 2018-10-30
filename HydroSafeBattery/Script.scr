@@ -1,0 +1,84 @@
+# NetScript
+# 
+# Exported from 18650 Battery Tray.sch at 10/29/2018 4:35 PM
+# 
+# EAGLE Version 9.2.1 Copyright (c) 1988-2018 Autodesk, Inc.
+# 
+Change Class 0;
+Signal 'CELL1'    'J10'      'F_BULLET' \
+                  'J14'      'CKT2' \
+                  'J2'       'CKT2' \
+                  'J3'       'F_BULLET' \
+                  'P1'       'P$2' \
+                  'P10'      'P$1' \
+                  'P11'      'P$1' \
+                  'P12'      'P$1' \
+                  'P2'       'P$2' \
+                  'P3'       'P$2' \
+                  'P4'       'P$2' \
+                  'P5'       'P$2' \
+                  'P6'       'P$2' \
+                  'P7'       'P$1' \
+                  'P8'       'P$1' \
+                  'P9'       'P$1' \
+                  ;
+Change Class 0;
+Signal 'CELL2'    'J11'      'F_BULLET' \
+                  'J14'      'CKT3' \
+                  'J2'       'CKT3' \
+                  'J4'       'F_BULLET' \
+                  'P10'      'P$2' \
+                  'P11'      'P$2' \
+                  'P12'      'P$2' \
+                  'P13'      'P$1' \
+                  'P14'      'P$1' \
+                  'P15'      'P$1' \
+                  'P16'      'P$1' \
+                  'P17'      'P$1' \
+                  'P18'      'P$1' \
+                  'P7'       'P$2' \
+                  'P8'       'P$2' \
+                  'P9'       'P$2' \
+                  ;
+Change Class 0;
+Signal 'CELL3'    'J12'      'F_BULLET' \
+                  'J14'      'CKT4' \
+                  'J2'       'CKT4' \
+                  'J5'       'F_BULLET' \
+                  'P13'      'P$2' \
+                  'P14'      'P$2' \
+                  'P15'      'P$2' \
+                  'P16'      'P$2' \
+                  'P17'      'P$2' \
+                  'P18'      'P$2' \
+                  'P19'      'P$1' \
+                  'P20'      'P$1' \
+                  'P21'      'P$1' \
+                  'P22'      'P$1' \
+                  'P23'      'P$1' \
+                  'P24'      'P$1' \
+                  ;
+Change Class 0;
+Signal 'CELL4'    'J14'      'CKT5' \
+                  'J15'      'F_BULLET' \
+                  'J2'       'CKT5' \
+                  'J7'       'F_BULLET' \
+                  'P19'      'P$2' \
+                  'P20'      'P$2' \
+                  'P21'      'P$2' \
+                  'P22'      'P$2' \
+                  'P23'      'P$2' \
+                  'P24'      'P$2' \
+                  ;
+Change Class 0;
+Signal 'GND'      'J1'       'F_BULLET' \
+                  'J14'      'CKT1' \
+                  'J2'       'CKT1' \
+                  'J9'       'F_BULLET' \
+                  'P1'       'P$1' \
+                  'P2'       'P$1' \
+                  'P3'       'P$1' \
+                  'P4'       'P$1' \
+                  'P5'       'P$1' \
+                  'P6'       'P$1' \
+                  ;

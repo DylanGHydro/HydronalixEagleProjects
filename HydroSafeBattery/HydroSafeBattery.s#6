@@ -5824,16 +5824,6 @@ Tutorial: &lt;a href="https://docs.google.com/document/d/1P3zzqCKdEXzCe--1Yyg8PC
 <sheets>
 <sheet>
 <plain>
-</plain>
-<instances>
-</instances>
-<busses>
-</busses>
-<nets>
-</nets>
-</sheet>
-<sheet>
-<plain>
 <text x="459.74" y="439.42" size="1.778" layer="97">Thermistors (optional)</text>
 <text x="314.96" y="38.1" size="1.778" layer="97">Over Current / Short Circuit
 Sense</text>

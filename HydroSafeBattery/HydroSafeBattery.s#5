@@ -6462,7 +6462,7 @@ Sense</text>
 <attribute name="NAME" x="632.46" y="218.44" size="1.778" layer="95"/>
 <attribute name="VALUE" x="632.46" y="162.56" size="1.778" layer="96"/>
 </instance>
-<instance part="U$2" gate="G$1" x="645.16" y="261.62" smashed="yes"/>
+<instance part="U$2" gate="G$1" x="635" y="281.94" smashed="yes"/>
 <instance part="J1" gate="A" x="721.36" y="205.74" smashed="yes">
 <attribute name="NAME" x="725.5256" y="211.0486" size="2.0828" layer="95" ratio="6" rot="SR0"/>
 </instance>
