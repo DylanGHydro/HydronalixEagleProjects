@@ -1,0 +1,254 @@
+solid RES_CRCW_1206
+facet normal 1 0 0
+  outer loop
+    vertex 39 -33.5 1
+    vertex 39 33.5 23
+    vertex 39 -33.5 23
+  endloop
+endfacet
+facet normal 1 0 0
+  outer loop
+    vertex 39 -33.5 1
+    vertex 39 33.5 1
+    vertex 39 33.5 23
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex -39 33.5 1
+    vertex -39 -33.5 23
+    vertex -39 33.5 23
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex -39 33.5 1
+    vertex -39 -33.5 1
+    vertex -39 -33.5 23
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex -39 -33.5 1
+    vertex 39 -33.5 23
+    vertex -39 -33.5 23
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex -39 -33.5 1
+    vertex 39 -33.5 1
+    vertex 39 -33.5 23
+  endloop
+endfacet
+facet normal 0 1 0
+  outer loop
+    vertex 39 33.5 1
+    vertex -39 33.5 23
+    vertex 39 33.5 23
+  endloop
+endfacet
+facet normal 0 1 0
+  outer loop
+    vertex 39 33.5 1
+    vertex -39 33.5 1
+    vertex -39 33.5 23
+  endloop
+endfacet
+facet normal 0 0 -1
+  outer loop
+    vertex 39 -33.5 1
+    vertex -39 33.5 1
+    vertex 39 33.5 1
+  endloop
+endfacet
+facet normal 0 0 -1
+  outer loop
+    vertex 39 -33.5 1
+    vertex -39 -33.5 1
+    vertex -39 33.5 1
+  endloop
+endfacet
+facet normal 0 0 1
+  outer loop
+    vertex 39 -33.5 23
+    vertex 39 33.5 23
+    vertex -39 33.5 23
+  endloop
+endfacet
+facet normal 0 0 1
+  outer loop
+    vertex 39 -33.5 23
+    vertex -39 33.5 23
+    vertex -39 -33.5 23
+  endloop
+endfacet
+facet normal 1 0 0
+  outer loop
+    vertex 65 -34.5 0
+    vertex 65 34.5 24
+    vertex 65 -34.5 24
+  endloop
+endfacet
+facet normal 1 0 0
+  outer loop
+    vertex 65 -34.5 0
+    vertex 65 34.5 0
+    vertex 65 34.5 24
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex 39 34.5 0
+    vertex 39 -34.5 24
+    vertex 39 34.5 24
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex 39 34.5 0
+    vertex 39 -34.5 0
+    vertex 39 -34.5 24
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex 39 -34.5 0
+    vertex 65 -34.5 24
+    vertex 39 -34.5 24
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex 39 -34.5 0
+    vertex 65 -34.5 0
+    vertex 65 -34.5 24
+  endloop
+endfacet
+facet normal 0 1 0
+  outer loop
+    vertex 65 34.5 0
+    vertex 39 34.5 24
+    vertex 65 34.5 24
+  endloop
+endfacet
+facet normal 0 1 0
+  outer loop
+    vertex 65 34.5 0
+    vertex 39 34.5 0
+    vertex 39 34.5 24
+  endloop
+endfacet
+facet normal 0 0 -1
+  outer loop
+    vertex 65 -34.5 0
+    vertex 39 34.5 0
+    vertex 65 34.5 0
+  endloop
+endfacet
+facet normal 0 0 -1
+  outer loop
+    vertex 65 -34.5 0
+    vertex 39 -34.5 0
+    vertex 39 34.5 0
+  endloop
+endfacet
+facet normal 0 0 1
+  outer loop
+    vertex 65 -34.5 24
+    vertex 65 34.5 24
+    vertex 39 34.5 24
+  endloop
+endfacet
+facet normal 0 0 1
+  outer loop
+    vertex 65 -34.5 24
+    vertex 39 34.5 24
+    vertex 39 -34.5 24
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex -65 34.5 0
+    vertex -65 -34.5 24
+    vertex -65 34.5 24
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex -65 34.5 0
+    vertex -65 -34.5 0
+    vertex -65 -34.5 24
+  endloop
+endfacet
+facet normal 1 0 0
+  outer loop
+    vertex -39 -34.5 0
+    vertex -39 34.5 24
+    vertex -39 -34.5 24
+  endloop
+endfacet
+facet normal 1 0 0
+  outer loop
+    vertex -39 -34.5 0
+    vertex -39 34.5 0
+    vertex -39 34.5 24
+  endloop
+endfacet
+facet normal 0 1 0
+  outer loop
+    vertex -39 34.5 0
+    vertex -65 34.5 24
+    vertex -39 34.5 24
+  endloop
+endfacet
+facet normal 0 1 0
+  outer loop
+    vertex -39 34.5 0
+    vertex -65 34.5 0
+    vertex -65 34.5 24
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex -65 -34.5 0
+    vertex -39 -34.5 24
+    vertex -65 -34.5 24
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex -65 -34.5 0
+    vertex -39 -34.5 0
+    vertex -39 -34.5 24
+  endloop
+endfacet
+facet normal 0 0 -1
+  outer loop
+    vertex -65 34.5 0
+    vertex -39 -34.5 0
+    vertex -65 -34.5 0
+  endloop
+endfacet
+facet normal 0 0 -1
+  outer loop
+    vertex -65 34.5 0
+    vertex -39 34.5 0
+    vertex -39 -34.5 0
+  endloop
+endfacet
+facet normal 0 0 1
+  outer loop
+    vertex -65 34.5 24
+    vertex -65 -34.5 24
+    vertex -39 -34.5 24
+  endloop
+endfacet
+facet normal 0 0 1
+  outer loop
+    vertex -65 34.5 24
+    vertex -39 -34.5 24
+    vertex -39 34.5 24
+  endloop
+endfacet
+endsolid RES_CRCW_1206
